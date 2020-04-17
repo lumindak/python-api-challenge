@@ -1,0 +1,4 @@
+Humidity or wind speed do not show any significant correlation with the latitude. Temperature looks like it's 
+correlated with the latitude. When loking at the plots for Northern and Southern hemispheres separately it can be seen 
+that the teperarture shows a statistically significant correlation with the latitude. But wind speed and humidity still do not 
+show any significant correaltion.
